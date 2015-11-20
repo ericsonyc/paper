@@ -1,0 +1,898 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2015.4.13)  20 NOV 2015 11:01
+entering extended mode
+**bare_adv.tex
+(H:\Kirchhoff‰∏≠ÊñáËÆ∫Êñálatex\bare_adv.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(H:\Kirchhoff‰∏≠ÊñáËÆ∫Êñálatex\IEEEtran.cls
+Document Class: IEEEtran 2012/12/27 V1.8 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+-- Using IEEE Computer Society mode.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 368.
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\psnfss\ot1ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using DVI output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEsubeqnnumrollback=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box26
+) ("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\CJK.sty"
+Package: CJK 2008/12/29 4.8.2
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\mule\MULEenc.sty"
+Package: MULEenc 2008/12/29 4.8.2
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\CJK.enc"
+File: CJK.enc 2008/12/29 4.8.2
+)
+LaTeX Info: Redefining \selectfont on input line 756.
+\CJK@indent=\box27
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks16
+\float@box=\box28
+\@float@everytoks=\toks17
+\@floatcapt=\box29
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\tools\enumerate.sty"
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\caption\caption.sty"
+Package: caption 2011/11/10 v3.2e Customizing captions (AR)
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\caption\caption3.sty"
+Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \normalsize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalf
+ont \sffamily \normalsize #1}\\{\normalfont \sffamily \normalsize #2}\par \addv
+space {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurec
+aptionsepspace \setbox \@tempboxa \hbox {\normalfont \sffamily \normalsize {#1.
+}\nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\norm
+alfont \sffamily \normalsize {#1.}\nobreakspace }\parbox [t]{\hsize }{\normalfo
+nt \sffamily \normalsize \noindent \unhbox \@tempboxa #2}\else \hbox to\hsize {
+\normalfont \sffamily \normalsize \box \@tempboxa \hfil }\fi \fi .
+\c@ContinuedFloat=\count93
+Package caption Info: float package is loaded.
+) ("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\tabu\tabu.sty"
+Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen125
+\extrarowheight=\dimen126
+\NC@list=\toks19
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box30
+\sift@deathcycles=\count94
+\@vwid@loff=\dimen127
+\@vwid@roff=\dimen128
+)
+\c@taburow=\count95
+\tabu@nbcols=\count96
+\tabu@cnt=\count97
+\tabu@Xcol=\count98
+\tabu@alloc=\count99
+\tabu@nested=\count100
+\tabu@target=\dimen129
+\tabu@spreadtarget=\dimen130
+\tabu@naturalX=\dimen131
+\tabucolX=\dimen132
+\tabu@Xsum=\dimen133
+\extrarowdepth=\dimen134
+\abovetabulinesep=\dimen135
+\belowtabulinesep=\dimen136
+\tabustrutrule=\dimen137
+\tabu@thebody=\toks20
+\tabu@footnotes=\toks21
+\tabu@box=\box31
+\tabu@arstrutbox=\box32
+\tabu@hleads=\box33
+\tabu@vleads=\box34
+\tabu@cellskip=\skip46
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\type1cm\type1cm.sty"
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks22
+\c@algorithm=\count101
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count102
+\c@ALG@rem=\count103
+\c@ALG@nested=\count104
+\ALG@tlm=\skip47
+\ALG@thistlm=\skip48
+\c@ALG@Lnr=\count105
+\c@ALG@blocknr=\count106
+\c@ALG@storecount=\count107
+\c@ALG@tmpcounter=\count108
+\ALG@tmplength=\skip49
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) ("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\standard.bdg"
+File: standard.bdg 2008/12/29 4.8.2
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\extended.enc"
+File: extended.enc 2008/12/29 4.8.2
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\extended.chr"
+File: extended.chr 2008/12/29 4.8.2
+)
+(H:\Kirchhoff‰∏≠ÊñáËÆ∫Êñálatex\bare_adv.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 558.
+LaTeX Font Info:    ... okay on input line 558.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for C19+song on input line 560
+.
+
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\CJK\GB\c19song.fd"
+File: c19song.fd 2009/09/23 4.8.2
+)
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 664.
+
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 664.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 664.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 664.
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 691.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <14> not available
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 691.
+
+
+LaTeX Font Warning: Font shape `C19/song/bx/sc' undefined
+(Font)              using `C19/song/bx/n' instead on input line 691.
+
+** WARNING: IEEEPARstart drop letter has zero height! (line 728)
+ Forcing the drop letter font size to 10pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 742.
+File: fig0.eps Graphic file (type eps)
+
+<fig0.eps>
+Underfull \hbox (badness 1708) in paragraph at lines 743--752
+\OT1/ppl/m/n/12 Hadoop \C19/song/m/n/12/40  \C19/song/m/n/12/43 ÿ \C19/song/m/
+n/12/60 % \C19/song/m/n/12/55  \C19/song/bx/n/12/45 O \C19/song/m/n/12/64 Ã \C
+19/song/m/n/12/61 á \C19/song/m/n/12/55 ¥ \C19/song/m/n/12/26 µ\OT1/ppl/m/n/12 
+MapReduce
+ []
+
+
+Overfull \hbox (12.5019pt too wide) in paragraph at lines 743--752
+\C19/song/m/n/12/48 )\OT1/ppl/m/n/12 HBase\C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 
+Hive\C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 Mahout\C19/song/m/n/12/26 ß\OT1/ppl/m/
+n/12 Sqoop\C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 Zookeeper\C19/song/m/n/12/26 ß 
+ []
+
+[1
+
+
+]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 771.
+File: fig1.eps Graphic file (type eps)
+ <fig1.eps> [2]
+Underfull \hbox (badness 2027) in paragraph at lines 803--804
+\C19/song/m/n/12/42 á \C19/song/m/n/12/46  \C19/song/m/n/12/40 „ \C19/song/m/n
+/12/25 " \C19/song/m/n/12/52 Ÿ \C19/song/m/n/12/64 • \C19/song/m/n/12/26 ß\OT1/
+ppl/m/n/12 Map\C19/song/m/n/12/46  \C19/song/m/n/12/40 „ \C19/song/bx/n/12/45 
+Ú \C19/song/m/n/12/55 — \C19/song/m/n/12/54 \ \C19/song/m/n/12/55 Í \C19/song/m
+/n/12/46 ‚ )
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 807--808
+[][]  \OT1/ppl/m/n/12 Job-Track-er\C19/song/m/n/12/55 ¥ \C19/song/m/n/12/61 ò \
+C19/song/m/n/12/42 á \C19/song/m/n/12/44   \C19/song/m/n/12/57  \C19/song/m/n/
+12/41 — \C19/song/m/n/12/58 ÷ \C19/song/m/n/12/46 ? \C19/song/m/n/12/38 ß \C19/
+song/m/n/12/26 ß \C19/song/m/n/12/52 È
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 807--808
+\C19/song/m/n/12/40 ƒ \C19/song/m/n/12/64 É \C19/song/m/n/12/44   \C19/song/m/n
+/12/26 ß \C19/song/m/n/12/44 ¨ \C19/song/m/n/12/61 ò \C19/song/m/n/12/64 Ü \C19
+/song/bx/n/12/45 i \C19/song/m/n/12/57 f \C19/song/m/n/12/37 ø \C19/song/m/n/12
+/46  \C19/song/m/n/12/55 ¬ \C19/song/m/n/12/48 5 \C19/song/m/n/12/65 g \C19/so
+ng/m/n/12/42 à
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
+\C19/song/m/n/12/37  \C19/song/m/n/12/42 â\OT1/ppl/m/n/12 JobTracker\C19/song/
+m/n/12/25 "\OT1/ppl/m/n/12 TaskTracker\C19/song/m/n/12/62 Ü\OT1/ppl/m/n/12 JobT
+racker
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
+\C19/song/m/n/12/40 È \C19/song/m/n/12/62 u\OT1/ppl/m/n/12 TaskTracker\C19/song
+/m/n/12/43 ⁄\OT1/ppl/m/n/12 JobTracker\C19/song/m/n/12/41  \C19/song/m/n/12/60
+ Û \C19/song/m/n/12/26 ß \C19/song/m/n/12/56 ß
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 808--809
+\C19/song/m/n/12/50 Ç \C19/song/m/n/12/64 É \C19/song/bx/n/12/45 m \C19/song/m/
+n/12/37 Ê \C19/song/m/n/12/62 ^\OT1/ppl/m/n/12 InterTrackerProtocol \C19/song/m
+/n/12/60  \C19/song/m/n/12/61 ∆ \C19/song/m/n/12/26 ß
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
+\C19/song/m/n/12/52 Ÿ \C19/song/m/n/12/64 • \C19/song/m/n/12/26 ß\OT1/ppl/m/n/1
+2 JobTracker\C19/song/m/n/12/36 à \C19/song/m/n/12/60 ¸\OT1/ppl/m/n/12 RPC Serv
+-er \C19/song/m/n/12/40 
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 808--809
+\C19/song/m/n/12/46  \C19/song/m/n/12/54 ⁄ \C19/song/m/n/12/26 ß \C19/song/m/n
+/12/41 \OT1/ppl/m/n/12 TaskTracker \C19/song/m/n/12/36 à \C19/song/m/n/12/60 ¸
+\OT1/ppl/m/n/12 RPC Clien-t
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
+\C19/song/m/n/12/46  \C19/song/m/n/12/54 ⁄ \C19/song/m/n/12/26 ∂ \C19/song/m/n
+/12/40 È \C19/song/m/n/12/62 u\OT1/ppl/m/n/12 TaskTracker\C19/song/m/n/12/62 Ü\
+OT1/ppl/m/n/12 Task\C19/song/m/n/12/41  \C19/song/m/n/12/60 Û \C19/song/m/n/12
+/26 ß
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
+\C19/song/m/n/12/56 ß \C19/song/m/n/12/50 Ç \C19/song/m/n/12/64 É \C19/song/bx/
+n/12/45 m \C19/song/m/n/12/37 Ê \C19/song/m/n/12/62 ^\OT1/ppl/m/n/12 TaskUmbili
+calProtocol\C19/song/m/n/12/60 
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 808--809
+\C19/song/m/n/12/61 ∆ \C19/song/m/n/12/26 ß \C19/song/m/n/12/52 Ÿ \C19/song/m/n
+/12/64 • \C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 TaskTracker\C19/song/m/n/12/36 à 
+\C19/song/m/n/12/60 ¸\OT1/ppl/m/n/12 RPC Serv-er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
+\C19/song/m/n/12/40  \C19/song/m/n/12/46  \C19/song/m/n/12/54 ⁄ \C19/song/m/n
+/12/26 ß \C19/song/m/n/12/41 \OT1/ppl/m/n/12 Task\C19/song/m/n/12/36 à \C19/so
+ng/m/n/12/60 ¸\OT1/ppl/m/n/12 RPC Clien-t\C19/song/m/n/12/40  \C19/song/m/n/12
+/46 
+ []
+
+File: fig2.eps Graphic file (type eps)
+<fig2.eps>
+Underfull \vbox (badness 1199) has occurred while \output is active []
+
+ [3]
+Underfull \hbox (badness 2608) in paragraph at lines 836--837
+[][]  \OT1/ppl/m/n/12 Yarn\C19/song/m/n/12/55 ¥\OT1/ppl/m/n/12 Apache\C19/song/
+m/n/12/40  \C19/song/m/n/12/59 e \C19/song/m/n/12/61 ò \C19/song/m/n/12/39 ì\O
+T1/ppl/m/n/12 MapReduce\C19/song/bx/n/12/47 µ
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 836--837
+\C19/song/m/n/12/56 ß \C19/song/m/n/12/42 K \C19/song/m/n/12/63 I \C19/song/m/n
+/12/59 ï\OT1/ppl/m/n/12 ResourceManager \C19/song/m/n/12/55  \C19/song/m/n/12/
+53 û \C19/song/m/n/12/65 ] \C19/song/m/n/12/63  \C19/song/m/n/12/26 ß \C19/son
+g/m/n/12/37 ø
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 836--837
+\C19/song/m/n/12/40  \C19/song/m/n/12/54 ? \C19/song/m/n/12/58 ÷ \C19/song/m/n
+/12/25 " \C19/song/m/n/12/62 d u \C19/song/m/n/12/37 ÿ \C19/song/m/n/12/57 ” \C
+19/song/m/n/12/40 \OT1/ppl/m/n/12 ApplicationMaster\C19/song/m/n/12/41 ©
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 836--837
+\C19/song/m/n/12/37 Ÿ \C19/song/m/n/12/63 3 \C19/song/m/n/12/37 ÿ \C19/song/m/n
+/12/57 ” \C19/song/m/n/12/40  \C19/song/m/n/12/46 ! \C19/song/m/n/12/40 : \C19
+/song/m/n/12/54 ˛ \C19/song/m/n/12/26 ß \C19/song/m/n/12/61 œ \C19/song/m/n/12/
+39 d \C19/song/m/n/12/56 ß \C19/song/m/n/12/50 Ç \C19/song/m/n/12/64 É \C19/son
+g/bx/n/12/45 m
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 836--837
+\C19/song/m/n/12/37 ÿ \C19/song/m/n/12/44 ¨ \C19/song/m/n/12/59 É \C19/song/m/n
+/12/44 p \C19/song/m/n/12/62 K \C19/song/m/n/12/59 è \C19/song/m/n/12/25 "\OT1/
+ppl/m/n/12 Yarn\C19/song/m/n/12/64 Ã \C19/song/m/n/12/61 á \C19/song/m/n/12/62 
+d \C19/song/m/n/12/54 n \C19/song/m/n/12/37 ‹ \C19/song/m/n/12/41 © \C19/song/m
+/n/12/65 |
+ []
+
+
+Underfull \vbox (badness 4927) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 4254) in paragraph at lines 841--842
+[][]\C19/song/m/n/12/62 ^ \C19/song/m/n/12/44 r \C19/song/m/n/12/57 J \C19/song
+/m/n/12/46  \C19/song/m/n/12/40  \C19/song/m/n/12/50 z \C19/song/m/n/12/42 á 
+\C19/song/m/n/12/62 A ^ \C19/song/m/n/12/38 ß \C19/song/m/n/12/60 S \C19/song/m
+/n/12/46 ˛ \C19/song/m/n/12/36 ù
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 841--842
+\C19/song/m/n/12/43 π \C19/song/m/n/12/61 ò \C19/song/m/n/12/42 á\OT1/ppl/m/n/1
+2 AM\C19/song/m/n/12/25 " \C19/song/m/n/12/56 ß \C19/song/m/n/12/55 ¢ \C19/song
+/bx/n/12/45 S \C19/song/m/n/12/54 ˛ \C19/song/m/n/12/55 ¥ \C19/song/m/n/12/61 ò
+ \C19/song/m/n/12/42 á \C19/song/bx/n/12/45 { \C19/song/m/n/12/44 z \C19/song/m
+/n/12/36 á
+ []
+
+File: fig3.eps Graphic file (type eps)
+<fig3.eps>
+Underfull \hbox (badness 1406) in paragraph at lines 870--873
+\C19/song/m/n/12/64 ≠ \C19/song/m/n/12/61 á \C19/song/m/n/12/40  \C19/song/m/n
+/12/46  \C19/song/m/n/12/54 ⁄ \C19/song/m/n/12/25 "\OT1/ppl/m/n/12 NameNode\C1
+9/song/m/n/12/55 ¥\OT1/ppl/m/n/12 HDFS\C19/song/m/n/12/64 Ã \C19/song/m/n/12/39
+ l \C19/song/m/n/12/46 ( \C19/song/m/n/12/43 
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 870--873
+\C19/song/m/n/12/39 l \C19/song/m/n/12/46 ( \C19/song/m/n/12/43  \C19/song/m/n
+/12/64 • \C19/song/m/n/12/40  \C19/song/m/n/12/39 l \C19/song/m/n/12/46 ! \C19
+/song/m/n/12/40 : \C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 DataNode\C19/song/m/n/12
+/64 â \C19/song/m/n/12/60 1 \C19/song/m/n/12/40 . \C19/song/m/n/12/38  
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 870--873
+\C19/song/m/n/12/40 \OT1/ppl/m/n/12 I/O\C19/song/m/n/12/54 ? \C19/song/m/n/12/
+58 ÷ \C19/song/m/n/12/25 "\OT1/ppl/m/n/12 NameNode \C19/song/m/n/12/43 + \C19/s
+ong/m/n/12/48 n \C19/song/m/n/12/65 X \C19/song/m/n/12/58 © \C19/song/bx/n/12/4
+5 á \C19/song/m/n/12/59 X \C19/song/m/n/12/57 ⁄
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+File: fig4.eps Graphic file (type eps)
+
+<fig4.eps>
+File: fig60.eps Graphic file (type eps)
+ <fig60.eps>
+File: fig5.eps Graphic file (type eps)
+ <fig5.eps>
+Underfull \hbox (badness 5939) in paragraph at lines 921--922
+[][]\OT1/ppl/m/n/12 RDD\C19/song/m/n/12/37  \C19/song/m/n/12/64 ü \C19/song/m/
+n/12/54 ˛ \C19/song/m/n/12/55 ¥ \C19/song/m/n/12/61 ò \C19/song/m/n/12/42 á \C1
+9/song/m/n/12/51 S \C19/song/m/n/12/39  \C19/song/m/n/12/55 Í \C19/song/m/n/12
+/46 ‚ \C19/song/bx/n/12/45 8 \C19/song/m/n/12/26 ß
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--922
+\C19/song/m/n/12/63 3 \C19/song/m/n/12/41 ñ \C19/song/m/n/12/58 Ø\OT1/ppl/m/n/1
+2 RDD\C19/song/m/n/12/55 û \C19/song/m/n/12/26 ß \C19/song/m/n/12/64 ç  ê \C19
+/song/m/n/12/44 ¨ \C19/song/m/n/12/64 ç \C19/song/m/n/12/59 ï \C19/song/m/n/12/
+62 Ü \C19/song/m/n/12/37 ˆ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--922
+\C19/song/m/n/12/65 ä \C19/song/m/n/12/62 k \C19/song/m/n/12/43 ' \C19/song/m/n
+/12/40  \C19/song/m/n/12/37 ‹ \C19/song/m/n/12/41 © \C19/song/m/n/12/25 "\OT1/
+ppl/m/n/12 RDD\C19/song/bx/n/12/45 Ú \C19/song/m/n/12/37 ˆ \C19/song/m/n/12/65 
+ä \C19/song/m/n/12/41 © \C19/song/m/n/12/58 è \C19/song/m/n/12/48 ¸
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 921--922
+\C19/song/m/n/12/48 a \C19/song/m/n/12/26 µ\OT1/ppl/m/n/12 transformation\C19/s
+ong/m/n/12/43 ⁄\OT1/ppl/m/n/12 action\C19/song/m/n/12/25 " \C19/song/m/n/12/58 
+√ \C19/song/m/n/12/49 ÿ \C19/song/m/n/12/64 â \C19/song/m/n/12/60 1 \C19/song/m
+/n/12/40 ı
+ []
+
+
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+ [6]
+Underfull \hbox (badness 3407) in paragraph at lines 926--927
+[][]\C19/song/m/n/12/57 œ \C19/song/m/n/12/43 L \C19/song/m/n/12/37 ø \C19/song
+/m/n/12/60 1 \C19/song/m/n/12/65 = \C19/song/m/n/12/44 Ü \C19/song/m/n/12/40  
+\C19/song/m/n/12/41 ê \C19/song/m/n/12/55 ™ \C19/song/m/n/12/48 5 \C19/song/m/n
+/12/39 M \C19/song/bx/n/12/45 Ô \C19/song/m/n/12/54 X
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 944--945
+\C19/song/m/n/12/57 J \C19/song/m/n/12/42 ¯\OT1/ppl/m/n/12 Map\C19/song/m/n/12/
+43 ⁄\OT1/ppl/m/n/12 Reduce \C19/song/m/n/12/48 ¸ \C19/song/m/n/12/64 ´ \C19/son
+g/m/n/12/37 ˆ \C19/song/m/n/12/65 ä \C19/song/m/n/12/25 " \C19/song/m/n/12/54 ,
+ \C19/song/m/n/12/41  \C19/song/m/n/12/62 d
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 946--947
+[][]\C19/song/bx/n/12/47 å \C19/song/m/n/12/62 ^ \C19/song/m/n/12/60 5 \C19/son
+g/m/n/12/25 "\OT1/ppl/m/n/12 Spark\C19/song/m/n/12/57 œ \C19/song/m/n/12/43 L \
+C19/song/m/n/12/57 J \C19/song/m/n/12/42 ¯ \C19/song/m/n/12/41 ¥ \C19/song/m/n/
+12/42 L
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 946--947
+\C19/song/m/n/12/40 \OT1/ppl/m/n/12 Scala\C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 
+Java\C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 Python\C19/song/bx/n/12/45 9 \C19/song
+/m/n/12/46  \C19/song/m/n/12/44 p \C19/song/m/n/12/55 ™\OT1/ppl/m/n/12 Shell\C
+19/song/m/n/12/48 5
+ []
+
+File: fig80.eps Graphic file (type eps)
+<fig80.eps>
+File: kirchhoff.eps Graphic file (type eps)
+ <kirchhoff.eps>
+Underfull \hbox (badness 5133) in paragraph at lines 976--977
+[] \OT1/ppl/m/n/12 com-pute am-pli-tude cor-rec-
+ []
+
+[7]
+File: fig6.eps Graphic file (type eps)
+ <fig6.eps>
+File: fig71.eps Graphic file (type eps)
+ <fig71.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1041
+[][]\OT1/ppl/m/n/12 MapReduce\C19/song/m/n/12/26 µ \C19/song/m/n/12/63 ˘ \C19/s
+ong/m/n/12/52 ü \C19/song/m/n/12/58 © \C19/song/m/n/12/63 Ÿ\OT1/ppl/m/n/12 [[]]
+\C19/song/m/n/12/46 0 \C19/song/m/n/12/55 
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 1040--1041
+\C19/song/m/n/12/49 
+\OT1/ppl/m/n/12 PKTM \C19/song/m/n/12/63 3\OT1/ppl/m/n/12 Hadoop\C19/song/m/n/1
+2/54 ˛ \C19/song/m/n/12/40  \C19/song/m/n/12/55 ¢ \C19/song/m/n/12/59 y \C19/s
+ong/m/n/12/26 ß \C19/song/m/n/12/56 ß \C19/song/m/n/12/36 U \C19/song/m/n/12/63
+ Ï
+ []
+
+
+Underfull \vbox (badness 1052) has occurred while \output is active []
+
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1048
+[][]\OT1/ppl/m/n/12 GPU\C19/song/m/n/12/26 µ \C19/song/m/n/12/63 ˘ \C19/song/m/
+n/12/52 ü \C19/song/m/n/12/58 © \C19/song/m/n/12/63 Ÿ\OT1/ppl/m/n/12 [[]]\C19/s
+ong/m/n/12/46 0 \C19/song/m/n/12/55 
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 1047--1048
+\OT1/ppl/m/n/12 GPUs\C19/song/m/n/12/48 5 \C19/song/bx/n/12/45 O \C19/song/m/n/
+12/56 é \C19/song/m/n/12/55 Í \C19/song/m/n/12/46 ‚ \C19/song/m/n/12/26 ß \C19/
+song/m/n/12/42 T \C19/song/m/n/12/38 ß \C19/song/m/n/12/60 S \C19/song/m/n/12/3
+9 å å \C19/song/bx/n/12/45 \ \C19/song/m/n/12/56 Ñ
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Overfull \hbox (14.8047pt too wide) detected at line 1074
+\OML/cmm/m/it/12 f[] \OT1/cmr/m/n/12 = []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1103--1106
+[][]\OT1/ppl/m/n/12 Output\C19/song/m/n/12/46  \C19/song/bx/n/12/40 „ \C19/son
+g/m/n/12/26 µ \C19/song/m/n/12/63 3\OT1/ppl/m/n/12 Hadoop\C19/song/m/n/12/64 • 
+\C19/song/m/n/12/26 ß \C19/song/m/n/12/50 z
+ []
+
+File: fig72.eps Graphic file (type eps)
+<fig72.eps>
+Underfull \hbox (badness 6300) in paragraph at lines 1123--1127
+[]    \OT1/ppl/m/n/12 S-park\C19/song/m/n/12/57 J \C19/song/m/n/12/42 ¯ \C19/so
+ng/m/n/12/49 
+ \C19/song/bx/n/12/40  \C19/song/m/n/12/60 5 \C19/song/bx/n/12/41 © \C19/song/
+m/n/12/37 Ÿ \C19/song/bx/n/12/55 ™ Í \C19/song/m/n/12/46 ‚ \C19/song/bx/n/12/45
+ 8
+ []
+
+[10]
+Underfull \hbox (badness 6792) in paragraph at lines 1129--1129
+[][]\C19/song/m/n/12/44 º \C19/song/bx/n/12/54  \C19/song/bx/n/12/45 8 \C19/so
+ng/bx/n/12/54 + \C19/song/m/n/12/44 Ç \C19/song/m/n/12/46 ∏  \C19/song/bx/n/12
+/40 „ \C19/song/m/n/12/26 µ\OT1/ppl/m/n/12 Spark\C19/song/m/n/12/57 J \C19/song
+/m/n/12/42 ¯
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1137--1145
+[][]\C19/song/bx/n/12/55 — \C19/song/bx/n/12/54 \ \C19/song/m/n/12/46  \C19/so
+ng/bx/n/12/40 „ \C19/song/m/n/12/26 µ\OT1/ppl/m/n/12 Spark\C19/song/m/n/12/57 J
+ \C19/song/m/n/12/42 ¯
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 1146--1158
+\C19/song/m/n/12/42 á \C19/song/bx/n/12/41 © \C19/song/m/n/12/53 ´ \C19/song/bx
+/n/12/40 — \C19/song/m/n/12/44 ¨ \C19/song/m/n/12/46 ? \C19/song/m/n/12/60 1\OT
+1/ppl/m/it/12 FlatMap\C19/song/m/n/12/37 ˆ \C19/song/m/n/12/65 ä \C19/song/m/n/
+12/26 ß \C19/song/m/n/12/61 ò \C19/song/m/n/12/39 g \C19/song/m/n/12/61 ò
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 1146--1158
+\C19/song/m/n/12/43 ' \C19/song/m/n/12/37 4 \C19/song/m/n/12/26 ß \C19/song/m/n
+/12/63 K \C19/song/bx/n/12/55  \C19/song/m/n/12/64 ò \C19/song/bx/n/12/59 Ç \C
+19/song/m/n/12/38 ß \C19/song/bx/n/12/55 Í \C19/song/m/n/12/58 è$[]$\C19/song/m
+/n/12/25 "
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \hbox (badness 1540) in paragraph at lines 1170--1173
+[][]\OT1/ppl/m/n/12 SortByKey\C19/song/m/n/12/46  \C19/song/bx/n/12/40 „ \C19/
+song/m/n/12/26 µ \C19/song/m/n/12/63 3\OT1/ppl/m/n/12 Reduce\C19/song/m/n/12/46
+  \C19/song/bx/n/12/40 „ \C19/song/bx/n/12/55 ) \C19/song/m/n/12/38 §
+ []
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 1174--1176
+[][]\C19/song/m/n/12/38 § \C19/song/bx/n/12/59 î \C19/song/m/n/12/46  \C19/son
+g/bx/n/12/40 „ \C19/song/m/n/12/26 µ \C19/song/m/n/12/42 ä \C19/song/m/n/12/46 
+‚ \C19/song/m/n/12/51 ¸ \C19/song/m/n/12/60 S \C19/song/m/n/12/43 – \C19/song/b
+x/n/12/40 \OT1/ppl/m/n/12 RDD\C19/song/m/n/12/46 ?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1176
+\C19/song/m/n/12/60 1  \C19/song/m/n/12/58 © \C19/song/bx/n/12/45 á \C19/song/
+bx/n/12/40 \OT1/ppl/m/n/12 HDFS\C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 Spark\C19/
+song/m/n/12/57 J \C19/song/m/n/12/42 ¯
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1176
+\C19/song/m/n/12/49 
+\OT1/ppl/m/it/12 saveAsNewAPIHadoopFile \C19/song/m/n/12/43 º \C19/song/bx/n/12
+/55 Í \C19/song/bx/n/12/40 È\OT1/ppl/m/n/12 RDD
+ []
+
+File: fig81.eps Graphic file (type eps)
+<fig81.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1196
+[]    \C19/song/bx/n/12/45 8 \C19/song/bx/n/12/54 + \C19/song/m/n/12/62 k\OT1/p
+pl/m/n/12 4\C19/song/m/n/12/42 á \C19/song/bx/n/12/46 ! \C19/song/bx/n/12/40 : 
+\C19/song/m/n/12/26 ß \C19/song/bx/n/12/41 © \C19/song/m/n/12/37 O
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1196
+\C19/song/bx/n/12/55 ¥\OT1/ppl/m/it/12 Master,Slave1,Slave3,Slave4\C19/song/m/n
+/12/25 " \C19/song/bx/n/12/45 8 \C19/song/bx/n/12/54 + \C19/song/m/n/12/50 z \C
+19/song/m/n/12/42 á \C19/song/bx/n/12/46 !
+ []
+
+[12]
+Underfull \hbox (badness 2556) in paragraph at lines 1223--1229
+\C19/song/bx/n/12/45 9\OT1/ppl/m/n/12 Yarn\C19/song/bx/n/12/40  \C19/song/m/n/
+12/43 + \C19/song/m/n/12/48 n \C19/song/bx/n/12/46 ? \C19/song/m/n/12/38 ß\OT1/
+ppl/m/n/12 ResourceManager\C19/song/m/n/12/26 ∂ \C19/song/bx/n/12/52 Ÿ \C19/son
+g/bx/n/12/56 ¶
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 1231--1236
+\C19/song/bx/n/12/61 á \C19/song/m/n/12/36 ù \C19/song/m/n/12/48 ) \C19/song/m/
+n/12/26 µ \C19/song/bx/n/12/55 — \C19/song/bx/n/12/54 \ \C19/song/bx/n/12/40 \
+OT1/ppl/m/n/12 meta\C19/song/m/n/12/58 © \C19/song/bx/n/12/45 á \C19/song/m/n/1
+2/26 £\OT1/ppl/m/n/12 shot.meta\C19/song/m/n/12/26 § ß
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 1231--1236
+\C19/song/bx/n/12/40  \C19/song/bx/n/12/45 u \C19/song/bx/n/12/37 ≈ \C19/song/
+bx/n/12/52 Ï \C19/song/bx/n/12/65 ã \C19/song/bx/n/12/37 I \C19/song/m/n/12/58 
+© \C19/song/bx/n/12/45 á \C19/song/m/n/12/26 £\OT1/ppl/m/n/12 fgxy.meta\C19/son
+g/m/n/12/26 § ß \C19/song/bx/n/12/55 — \C19/song/bx/n/12/54 \
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 1231--1236
+\C19/song/bx/n/12/59 E \C19/song/m/n/12/58 © \C19/song/bx/n/12/45 á \C19/song/m
+/n/12/26 £\OT1/ppl/m/n/12 rmsv.meta\C19/song/m/n/12/26 § \C19/song/m/n/12/25 " 
+\C19/song/m/n/12/50 z \C19/song/m/n/12/42 á\OT1/ppl/m/n/12 meta\C19/song/m/n/12
+/60 & \C19/song/bx/n/12/59 E \C19/song/m/n/12/58 ©
+ []
+
+
+Overfull \hbox (2.18227pt too wide) in paragraph at lines 1231--1236
+\C19/song/bx/n/12/45 á \C19/song/m/n/12/26 µ\OT1/ppl/m/n/12 shot.data\C19/song/
+m/n/12/26 ß\OT1/ppl/m/n/12 fsxy.data\C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 fgxy.d
+ata\C19/song/m/n/12/26 ß\OT1/ppl/m/n/12 fcxy.data, 
+ []
+
+File: fig91.eps Graphic file (type eps)
+<fig91.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 1246--1255
+[][]\C19/song/m/n/12/58 ∑ \C19/song/m/n/12/50 Ç \C19/song/bx/n/12/55 ƒ \C19/son
+g/bx/n/12/59 k \C19/song/bx/n/12/37 ˇ \C19/song/bx/n/12/55 ¡\OT1/ppl/m/n/12 map
+per\C19/song/bx/n/12/54 ? \C19/song/m/n/12/58 ÷
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 1246--1255
+\C19/song/m/n/12/48 5 \C19/song/m/n/12/62 K \C19/song/bx/n/12/59 è \C19/song/m/
+n/12/25 " \C19/song/bx/n/12/37 ˇ \C19/song/bx/n/12/55 ¡ \C19/song/bx/n/12/46 ( 
+\C19/song/bx/n/12/43 J \C19/song/bx/n/12/54 X \C19/song/m/n/12/57 „\OT1/ppl/m/n
+/12 13\C19/song/bx/n/12/56 § \C19/song/bx/n/12/55 ´ \C19/song/m/n/12/25 " \C19/
+song/m/n/12/58 ∑
+ []
+
+File: fig92.eps Graphic file (type eps)
+<fig92.eps>
+File: fig11.eps Graphic file (type eps)
+ <fig11.eps>
+Underfull \hbox (badness 1924) in paragraph at lines 1267--1278
+\C19/song/m/n/12/58 ÷ \C19/song/m/n/12/48 5 \C19/song/bx/n/12/46  \C19/song/bx
+/n/12/55 ¬\OT1/ppl/m/n/12 mapper\C19/song/bx/n/12/40  \C19/song/bx/n/12/55 — \
+C19/song/m/n/12/38 — \C19/song/m/n/12/58 © \C19/song/bx/n/12/45 á \C19/song/m/n
+/12/26 ß \C19/song/bx/n/12/40  \C19/song/bx/n/12/55 ¥
+ []
+
+[13]
+File: fig12.eps Graphic file (type eps)
+ <fig12.eps>
+File: fig13.eps Graphic file (type eps)
+ <fig13.eps>
+File: fig10.eps Graphic file (type eps)
+ <fig10.eps> [14]
+Underfull \hbox (badness 10000) in paragraph at lines 1432--1446
+[][]\C19/song/bx/n/12/37  \C19/song/bx/n/12/40 „ \C19/song/bx/n/12/64 • \C19/s
+ong/m/n/12/58 ∑ \C19/song/m/n/12/50 Ç \C19/song/bx/n/12/46 0 \C19/song/bx/n/12/
+55  \C19/song/bx/n/12/61 ò \C19/song/m/n/12/60 
+\OT1/ppl/m/n/12 Kirchhoff\C19/song/m/n/12/42 U
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1432--1446
+\C19/song/bx/n/12/46 ? \C19/song/bx/n/12/40  \C19/song/bx/n/12/59 é \C19/song/
+bx/n/12/41 { \C19/song/m/n/12/26 ß \C19/song/m/n/12/63 3\OT1/ppl/m/n/12 Hadoop\
+C19/song/bx/n/12/64 • \C19/song/m/n/12/26 ß \C19/song/m/n/12/58 ∑ \C19/song/m/n
+/12/50 Ç \C19/song/m/n/12/57 œ
+ []
+
+[15] (H:\Kirchhoff‰∏≠ÊñáËÆ∫Êñálatex\bare_adv.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5879 strings out of 495355
+ 92023 string characters out of 3182762
+ 166356 words of memory out of 3000000
+ 8959 multiletter control sequences out of 15000+200000
+ 68838 words of font info for 210 fonts, out of 3000000 for 9000
+ 17 hyphenation exceptions out of 8191
+ 36i,9n,39p,1124b,895s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on bare_adv.dvi (15 pages, 99272 bytes).
